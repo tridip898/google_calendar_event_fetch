@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048031330014-4f8vm9b5u6v01pp4df9hqejoj5m7tsd1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048031330014-4f8vm9b5u6v01pp4df9hqejoj5m7tsd1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxGa0-0ZjJkXpfMzfWN5BLD0prBvyKQaM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048031330014</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.calenderDataGmail</string>
+	<key>PROJECT_ID</key>
+	<string>calendar-data-a096b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calendar-data-a096b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048031330014:ios:16fbe11c48056c55a10c4f</string>
+</dict>
+</plist>
