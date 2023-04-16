@@ -18,9 +18,9 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     _googleSignIn = GoogleSignIn(
-      serverClientId: '117886159421114254775',
+      //serverClientId: '117886159421114254775',
       scopes: [
-        'email',
+        //'email',
         'https://www.googleapis.com/auth/calendar.events.readonly',
       ],
     );
